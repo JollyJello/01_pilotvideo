@@ -10,6 +10,13 @@ img {
   width: 100%;
   height: auto;
 }
+
+video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
 header nav ul {
   display: inline-flex;
   list-style-type: none;
